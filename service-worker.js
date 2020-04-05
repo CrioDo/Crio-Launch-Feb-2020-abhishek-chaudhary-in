@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Crio-Launch-Feb-2020-abhishek-chaudhary-in/precache-manifest.4451cf37cd9f2bedc41c4931b7ca8fda.js"
+  "/Crio-Launch-Feb-2020-abhishek-chaudhary-in/precache-manifest.e0234f0022bc736fda3df45a34db4675.js"
 );
 
 self.addEventListener('message', (event) => {
